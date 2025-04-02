@@ -13,6 +13,5 @@ This project is about ViTA, a minimal frontend stack with:
 ## How to start ?
 
 -   Clone the project ;
--   Install dependencies with npm/pnpm/bun install or yarn.
-    Project initially has a bun.lockb file. Feel free to delete it if you don't plan to use bun as package manager ;
+-   Install dependencies with npm/pnpm/bun install or yarn ;
 -   Run dev script (bun/pnpm/yarn dev or npm run dev).
